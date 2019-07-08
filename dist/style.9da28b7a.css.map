@@ -1,0 +1,1 @@
+{"version":3,"sources":["style.css"],"names":[],"mappings":"AAAA,EAAE,QAAQ,CAAC,SAAS,CAAC,qBAAsB,CAC3C,MAAM,iBAAiB,CAAC,KAAK,CAAC,MAAO","file":"style.9da28b7a.css","sourceRoot":"..","sourcesContent":["*{margin:0;padding:0;box-sizing:border-box;}\r\n#demo{position:absolute;top:0;left:0;}"]}
